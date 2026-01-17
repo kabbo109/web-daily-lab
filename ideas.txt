@@ -1,0 +1,5 @@
+Ideas
+
+- Try small web ideas
+- Learn HTML
+- Learn JavaScript
